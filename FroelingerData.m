@@ -1,7 +1,7 @@
 % Data 
 % Meditation-State Functional Connectivity (msFC): Strengthening 
 % of the Dorsal Attention Network and Beyond
-% Aurthor: Matthew Johnson 
+% Author: Matthew Johnson 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Between Group Effects
