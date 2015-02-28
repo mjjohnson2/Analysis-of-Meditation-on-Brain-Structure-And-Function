@@ -70,7 +70,7 @@ end
 TotalDMNVol=sum(sum(DMNVolume));
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Examine all possible combinations of brain region 
+%% Examine all possible combinations of brain regions 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Experienced
@@ -177,7 +177,7 @@ title('Saliance Network')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Analysis
-%Charecteristic Path Length and global efficiency
+%Characteristic Path Length and global efficiency
 [DMNcharpathlength, DMNglobaleff] =charpath(DMN);
 [DANcharpathlength, DANglobaleff]=charpath(DAN);
 [ECNcharpathlength, ECNglobaleff]=charpath(ECN);
